@@ -6,6 +6,13 @@ It is hosted on [GitHub Pages](https://guides.github.com/features/pages/) using 
 
 ### Python Notes and Links
 
+#### Configuration Files in Python
+
+Martin Thoma article - covers YAML, JSON and INI files.
+
+[https://martin-thoma.com/configuration-files-in-python/](https://martin-thoma.com/configuration-files-in-python/)
+
+Also see my [meraki-read-devices](https://github.com/jamesha100/meraki-read-devices) script for an example of *ini* file using *ConfigParser*. 
 
 ### Cisco CUCM Notes and Links
 
