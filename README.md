@@ -2,6 +2,8 @@
 
 This site contains code snippets, useful links etc.
 
+It is hosted on [GitHub Pages](https://guides.github.com/features/pages/) using the *Hacker* theme.
+
 ### Python Notes and Links
 
 
